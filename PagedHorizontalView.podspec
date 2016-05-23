@@ -17,12 +17,12 @@ and can optionally wire UIPageControl and a previous and next UIbuttons.
 
 It doesn't affect the appearance of the controls and doesn't implement the collection view data source to keep full flexibility while doing the repeated work for a horizontal scroller.
                        DESC
-  s.homepage         = "https://github.com/mohamede1945/PagedHorizontalView"
-  # s.screenshots     = "https://github.com/mohamede1945/PagedHorizontalView/raw/master/screenshots/demo.gif"
+  s.homepage         = "https://github.com/ptiosdev/PagedHorizontalView"
+  # s.screenshots     = "https://github.com/ptiosdev/PagedHorizontalView/raw/master/screenshots/demo.gif"
   s.license          = 'MIT'
-  s.author           = { "Mohamed Afifi" => "mohamede1945" }
-  s.source           = { :git => "https://github.com/mohamede1945/PagedHorizontalView.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/mohamede1945'
+  s.author           = { "Mohamed Afifi" => "ptiosdev" }
+  s.source           = { :git => "https://github.com/ptiosdev/PagedHorizontalView.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/ptiosdev'
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
